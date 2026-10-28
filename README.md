@@ -21,6 +21,14 @@ Before moving to Atlassian, I worked as a **Data Scientist**. That background sh
 - 🤖 Building a personal AI agent with LangChain and the Claude API
 - 🎓 VP Academy & Mentoring @ RACP-IMSP (IMSP prep-school alumni association)
 
+### 🧰 Atlassian Toolkit:
+| Repository | What it does |
+|---|---|
+| [confluence-space-audit](https://github.com/GhntSergio/confluence-space-audit) | Python audit of Confluence Cloud spaces via the REST API, with an Excel report |
+| [jsm-automation-recipes](https://github.com/GhntSergio/jsm-automation-recipes) | Ready-to-build Automation for Jira rules for JSM |
+| [jira-assets-aql-cheatsheet](https://github.com/GhntSergio/jira-assets-aql-cheatsheet) | Practical AQL reference, including cascading Assets fields |
+| [cloud-migration-assessment-template](https://github.com/GhntSergio/cloud-migration-assessment-template) | Data Center to Cloud assessment framework and templates |
+
 ### 🌐 Connect with Me:
 - [![Email](https://img.shields.io/badge/Email-sergeghnt%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sergeghnt@gmail.com)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MPVBTWWf)
