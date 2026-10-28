@@ -22,6 +22,7 @@ Before moving to Atlassian, I worked as a **Data Scientist**. That background sh
 - 🎓 VP Academy & Mentoring @ RACP-IMSP (IMSP prep-school alumni association)
 
 ### 🌐 Connect with Me:
+- [![Email](https://img.shields.io/badge/Email-sergeghnt%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sergeghnt@gmail.com)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MPVBTWWf)
 
 ### 💻 Tech Stack:
@@ -48,21 +49,8 @@ Before moving to Atlassian, I worked as a **Data Scientist**. That background sh
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 
-### 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GhntSergio&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
-### ✍️
-
-<div style="background-color:#2c3e50; padding: 20px; border-radius: 10px; border: 1px solid #34495e; box-shadow: 0px 4px 8px rgba(0,0,0,0.7);">
-  <p style="font-style: italic; color: #87CEEB; margin: 0; line-height: 1.5;">
-    “I remember you was conflicted, misusing your influence, sometimes I did the same.”
-  </p>
-  <div style="text-align: right; color:#FF6F00; font-weight: bold;">
-    — Kendrick Lamar, "The Blacker the Berry"
-  </div>
-</div>
+### 📊 GitHub Activity:
+![](https://github-readme-stats.vercel.app/api?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 
 ### 📞 Contact Me:
-Thanks for visiting my profile! Feel free to reach out on Discord for any collaboration or discussion around Atlassian, ITSM or data.
+Open to discussions on Atlassian administration, ITSM, Cloud migrations and data. The fastest way to reach me is by email.
