@@ -50,7 +50,7 @@ Before moving to Atlassian, I worked as a **Data Scientist**. That background sh
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 
 ### 📊 GitHub Activity:
-![](https://github-readme-stats.vercel.app/api?username=GhntSergio&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GhntSergio&theme=dark&hide_border=false)
 
 ### 📞 Contact Me:
 Open to discussions on Atlassian administration, ITSM, Cloud migrations and data. The fastest way to reach me is by email.
